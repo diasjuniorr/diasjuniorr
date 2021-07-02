@@ -1,7 +1,10 @@
-### Hey dev 👋
-I'm Dias Junior, a self-driven tech enthusiast and a fullstack software engineer
+## 👋 Hello, I'm [Dias Junior](https://twitter.com/diasjuniorr)!
+- I'm a self-driven tech enthusiast and a fullstack software engineer. I'm currently working with [Go](https://golang.org/) and learning about software testing, [AWS](https://aws.amazon.com/) and Serverless. 💻
+- Besides learning new stuff I also enjoy meditating, practing sports and getting to know people from around the world 🗺️
+
 <br>
 
+## 🤝 Let's connect
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/diasjuniorr/)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://diasjunior.medium.com/)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/diasjuniorr)
@@ -21,7 +24,6 @@ I'm Dias Junior, a self-driven tech enthusiast and a fullstack software engineer
 <br>
 <br>
 <br>
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diasjuniorr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

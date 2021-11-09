@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm [Dias Junior](https://twitter.com/diasjuniorr)!
-- I'm a self-driven tech enthusiast and a fullstack software engineer. I'm currently working with [Go](https://golang.org/) and learning about software testing, [AWS](https://aws.amazon.com/) and Serverless. 💻
-- Besides learning new stuff I also enjoy meditating, practing sports and getting to know people from around the world 🗺️
+- Digital nomad who loves to travel and explore new cultures and tastes. Improving how people live and do their thing is what drives me. I'm currently on a team pioneering the digital transformation in the Health Tech industry in Brazil. We're changing how physicians and patients build and improve their relationship. 
+- Currently experimenting with blockchain technologies and decentralized web. I believe that's how well move forward to the future. 
 
 <br>
 

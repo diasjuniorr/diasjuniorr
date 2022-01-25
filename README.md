@@ -10,6 +10,7 @@
 [<img align="left" alt="twitter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width="40"/>](https://twitter.com/diasjuniorr)
 <br>
 <br>
+
 ## 🧠 Expertise
 <img align="left" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />

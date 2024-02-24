@@ -3,7 +3,7 @@ Improving how people live and do their thing is what drives me.
 
 ## 💪 I'm strong at:
 - Backend technologies
-- (Node.js, Go, typescript) 
+- Node.js, Go, typescript 
 - Software architecture (ddd, clean architecture, feature-sliced.design, event-driven architecture)
 - Microservices
 - Kubernets
